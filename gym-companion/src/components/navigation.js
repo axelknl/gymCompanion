@@ -3,7 +3,7 @@ import { faRectangleList, faChartLine, faGear, faRightFromBracket, faChevronRigh
 
 const Navigation = () => {
     return (
-        <div className="navigation min-vh-100 bg-dark text-light py-5 px-4 d-flex flex-column">
+        <div className="navigation min-vh-100 col bg-dark text-light py-5 px-5 d-flex flex-column">
             {/* titre et logo */}
             <div className="navigation--logo logo">
                 <h1>GymCompanion</h1>
